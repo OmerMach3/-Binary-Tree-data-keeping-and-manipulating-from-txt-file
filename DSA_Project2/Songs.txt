@@ -1,0 +1,9 @@
+Ich will;Rammstein;1007;Metal;2001
+Sonne;Rammstein;1003;Metal;2001
+Mein Herz brennt;Rammstein;1006;Metal;2001
+Hain Geceler;Cengiz Kurtoglu;1010; Arabesk;1998
+Yillar Utansin;Devran Caglar;1004; Arabesk;1988
+Kullenen Ask;Cengiz Kurtoglu;1008;Arabesk;1999
+Canakkale Turkusu;Anonim;1005;Turku;1915
+Yemen Turkusu;Anonim;1000;Turku;1915
+Iki Keklik;Erkan Ogur;1001;Turku;1996
